@@ -3,9 +3,9 @@
 
 :root {
     --laranja-claro: rgb(209, 69, 69);
-    --alto-contraste-fundo: #000000;
+    --alto-contraste-fundo: #410000;
     --alto-contrate-texto: #ffffff;
-    --alto-contraste-link: #e05c5c;
+    --alto-contraste-link: #a32929;
 }
 
 body {
@@ -37,7 +37,7 @@ section {
 }
 
 .form-group {
-    color: #ff4583;
+    color: var(--laranja-claro);
 }
 
 .inicio-fundo {
@@ -165,6 +165,11 @@ h2 {
 }
 
 #diminuir-fonte {
+    border: #a32929;
+    background-color: #a32929;
+}
+
+#alterna-contraste {
     border: #a32929;
     background-color: #a32929;
 }
