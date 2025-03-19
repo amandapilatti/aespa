@@ -3,9 +3,9 @@
 
 :root {
     --laranja-claro: rgb(209, 69, 69);
-    --alto-contraste-fundo: #410000;
+    --alto-contraste-fundo: #520000;
     --alto-contrate-texto: #ffffff;
-    --alto-contraste-link: #a32929;
+    --alto-contraste-link: #ffa9a9;
 }
 
 body {
